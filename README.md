@@ -1,2 +1,2 @@
 # Language_Transluation-
-English to Telugu text translator
+English to Hindi text translator
